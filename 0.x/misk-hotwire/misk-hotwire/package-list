@@ -1,0 +1,6 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:misk.hotwire////PointingToDeclaration/misk-hotwire/misk.hotwire/index.md
+$dokka.location:misk.hotwire//buildHtml/#kotlin.Function1[kotlinx.html.TagConsumer[*],kotlin.Unit]/PointingToDeclaration/misk-hotwire/misk.hotwire/build-html.md
+misk.hotwire
+
